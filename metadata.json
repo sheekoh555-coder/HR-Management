@@ -1,0 +1,5 @@
+{
+  "name": "HR Management Dashboard",
+  "description": "A comprehensive HR management application with Excel upload, Gemini AI analysis, and Supabase integration.",
+  "requestFramePermissions": []
+}
